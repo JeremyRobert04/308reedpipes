@@ -1,0 +1,7 @@
+main.spec
+308reedpipes.exe
+308reedpipes
+dist/*
+build/*
+*/__pycache__
+main.py
